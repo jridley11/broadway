@@ -2,3 +2,15 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+
+h1 {
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
+  }
+
+.buildingimagewhitefont {
+  background-image: url("../images/the-flatiron-building.png");
+  background-color: black;
+  color: white
+}
