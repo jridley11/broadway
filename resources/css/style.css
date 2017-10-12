@@ -9,8 +9,31 @@ h1 {
   font-weight: bold;
   }
 
+.linksformat {
+  font-size: 18px;
+  color: white;
+}
 .buildingimagewhitefont {
   background-image: url("../images/the-flatiron-building.png");
   background-color: black;
   color: white
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px
 }
