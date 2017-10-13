@@ -9,13 +9,12 @@ h1 {
   font-weight: bold;
   }
 
-.toplinks {
+.btn-nav {
   font-size: 18px;
   color: white;
 }
-.buildingimagewhitefont {
+.hero {
   background-image: url("../images/the-flatiron-building.png");
-  background-color: black;
   color: white
 }
 
@@ -29,13 +28,16 @@ h3 {
   font-weight: bold;
 }
 
-p {
+.supporting-item {
   font-size: 14px;
 }
-
 .footer {
   text-align: left;
   background-color: dimgray;
   font-size: 11px;
+  color: white;
+}
+
+#footerlinks {
   color: white;
 }
