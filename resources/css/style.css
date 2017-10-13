@@ -9,7 +9,7 @@ h1 {
   font-weight: bold;
   }
 
-.linksformat {
+.toplinks {
   font-size: 18px;
   color: white;
 }
@@ -29,11 +29,13 @@ h3 {
   font-weight: bold;
 }
 
+p {
+  font-size: 14px;
+}
+
 .footer {
   text-align: left;
   background-color: dimgray;
-}
-
-#copyright {
-  font-size: 11px
+  font-size: 11px;
+  color: white;
 }
